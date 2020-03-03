@@ -1,0 +1,35 @@
+# Logs
+logs
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Others
+.idea
+.DS_Store
+
+# Bundle generate files
+server/public/app.js
+
+
+#saltarse los cache
+modulos/plugins/despachos/cache_despachos.json
+modulos/appsmods/alertmod_cache.json
+modulos/appsmods/geomod_cache.json
+modulos/appsmods/stopmod_cache.json
+
+
+

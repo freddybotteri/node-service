@@ -1,0 +1,37 @@
+{
+  "name": "gpsmodules",
+  "version": "1.0.0",
+  "description": " punto de Entrada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/tivitrace/gpsmodules.git"
+  },
+  "keywords": [
+    "gps",
+    "homologacion",
+    "tivieagle",
+    "backend"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "homepage": "/gpsmodules#readme",
+  "dependencies": {
+    "dgram": "1.0.1",
+    "express": "4.14.0",
+    "forever": "0.15.3",
+    "forever-monitor": "1.7.1",
+    "http": "0.0.0",
+    "mongoose": "4.6.6",
+    "nodemailer": "^2.6.4",
+    "pg": "6.1.0",
+    "pg-format": "1.0.4",
+    "q": "1.5.1",
+    "querystring": "0.2.0",
+    "socket.io": "1.5.1",
+    "socket.io-client": "1.7.2"
+  }
+}
